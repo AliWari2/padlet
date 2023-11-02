@@ -1,0 +1,2 @@
+# Projet Padlet pour une association de football
+j'ai créé un projet de Padlet en utilisant PHP, SQL. J'ai développé une plateforme interactive permettant aux utilisateurs de créer, partager et collaborer sur des tableaux virtuels. J'ai utilisé PHP pour gérer les fonctionnalités du site, la base de données SQL pour stocker les informations des utilisateurs et des tableaux, et FileZilla pour la gestion des fichiers en ligne.
